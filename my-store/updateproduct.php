@@ -104,6 +104,8 @@
                     <br>
                     <input type="submit" class="btn btn-danger" name="add" value="ADD(NOT-WORKING)" >
                 </form>
+                
+                <a href="index.php?page=products">Back to Products</a>
             </div>
         </div>
     </div>
